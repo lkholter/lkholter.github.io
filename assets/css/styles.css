@@ -134,6 +134,7 @@ iframe {
   margin-bottom: 5px;
   margin-top: 30px;
   margin-left: 70px;
+  padding: 10px;
 }
 .header .profile-content .desc {
   color: #778492;
